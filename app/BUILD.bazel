@@ -26,6 +26,7 @@ nodejs_binary(
   entry_point = "__main__/app/main.js",
   data = [
     ":main",
+    "@npm//date-fns",
     # Uncomment to fix
     # "@npm//five",
   ],

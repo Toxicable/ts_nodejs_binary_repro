@@ -5,5 +5,7 @@
     "five": "^0.8.0",
     "typescript": "^3.3.3333"
   },
-  "dependencies": {}
+  "dependencies": {
+    "date-fns": "^1.30.1"
+  }
 }
